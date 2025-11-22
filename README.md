@@ -2,7 +2,8 @@
 
 🎓 Software Development Student @ UNCuyo (ITU)  
 🔐 Cybersecurity enthusiast | SOC fundamentals | Networking  
-💻 Currently working with: Javascript • Python • C • Git • SQL • Tailwind • TypeScript
+💻 Currently working with: Javascript • Python • C •
+Git • SQL • Tailwind • TypeScript
 🌎 Bilingual: Spanish / English  
 🚀 Interested in secure software, backend dev, and IT support roles  
 
