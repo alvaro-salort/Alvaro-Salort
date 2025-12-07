@@ -12,13 +12,16 @@
 </div>
 
 <div align="center">
-                                                                
+
+<pre>
+                                                                        
       ▄▄                                           ▄▄                   
       ██                                           ██              ██   
  ▀▀█▄ ██ ██ ██  ▀▀█▄ ████▄ ▄███▄       ▄█▀▀▀  ▀▀█▄ ██ ▄███▄ ████▄ ▀██▀▀ 
 ▄█▀██ ██ ██▄██ ▄█▀██ ██ ▀▀ ██ ██ ▀▀▀▀▀ ▀███▄ ▄█▀██ ██ ██ ██ ██ ▀▀  ██   
 ▀█▄██ ██  ▀█▀  ▀█▄██ ██    ▀███▀       ▄▄▄█▀ ▀█▄██ ██ ▀███▀ ██     ██   
                                                                         
+</pre>                                          
 ### Software Developer · Backend & Cybersecurity Enthusiast
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -56,7 +59,7 @@ I like, backend, web, gaming and playing around with anything that lets me under
 | :--- | :--- |
 | **Core** | JavaScript, Python, C, SQL, TypeScript |
 | **Frontend** | Tailwind CSS |
-| **Tools** | Git, Linux, Docker (learning), VS Code |
+| **Tools** | Git, Linux, Docker, VS Code |
 
 ---
 
