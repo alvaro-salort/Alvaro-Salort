@@ -37,7 +37,7 @@
 
 ## 👋 Hey, I’m Alvaro
 
-I’m a **Software Development student @ UNCuyo (ITU)** with a real interest in building secure, efficient, and clean software.  
+I’m a **Software Developer @ UNCuyo (ITU)** with a real interest in building secure, efficient, and clean software.  
 I like, backend, web, gaming and playing around with anything that lets me understand how things actually work under the hood.
 
 > "Learning, breaking, fixing, improving — the usual dev cycle."
