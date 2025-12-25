@@ -22,7 +22,7 @@
 ▀█▄██ ██  ▀█▀  ▀█▄██ ██    ▀███▀       ▄▄▄█▀ ▀█▄██ ██ ▀███▀ ██     ██   
                                                                         
 </pre>                                          
-### Software Developer · Backend & Cybersecurity Enthusiast
+### Full-stack Developer · Backend & Cybersecurity Enthusiast
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +37,7 @@
 
 ## 👋 Hey, I’m Alvaro
 
-I’m a **Software Developer @ UNCuyo (ITU)** with a real interest in building secure, efficient, and clean software.  
+I’m a **Full-stack Developer @ UNCuyo (ITU)** with a real interest in building secure, efficient, and clean software.  
 I like, backend, web, gaming and playing around with anything that lets me understand how things actually work under the hood.
 
 > "Learning, breaking, fixing, improving — the usual dev cycle."
